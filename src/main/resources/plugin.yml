@@ -1,0 +1,6 @@
+name: zParkour
+version: 1.0
+author: oJVzinn
+depend:
+  - kCore
+main: com.zyramc.ojvzinn.parkour.Main
