@@ -8,3 +8,6 @@ Notas:
 Otimizando, organizando, fazendo tudo certinho, você terá um plugin bom, que era para ser um kibe do parkour da Rede Sky.<b/></li><br>
   <li><b>Outro aviso, o plugin foi feito para ser utilizado juntamente com kCore.</b></li>
 </ul>
+
+
+<a href="https://www.youtube.com/watch?v=XbyxOq2gHKk"><b>VÍDEO DEMONSTRAÇÃO</b></a>
